@@ -1,0 +1,68 @@
+db.userInfo.insertMany([
+    {
+        "studentID": 19021331,
+        "email": "19021331@vnu.edu.vn",
+        "password": "minh0511",
+        "fullName": "Phạm Vũ Minh",
+        "class": "K64-CA-CLC2",
+        "dateOfBirth": Date("2001-11-05T00:00:00Z"),
+        "phoneNumber": 856147365
+    },
+    {
+        "studentID": 19021363,
+        "email": "19021363@vnu.edu.vn",
+        "password": "thainmuet",
+        "fullName": "Nguyễn Minh Thái",
+        "class": "K64-CA-CLC2",
+        "dateOfBirth": Date("2001-03-02T00:00:00Z"),
+        "phoneNumber": 2413824685
+    },
+    {
+        "studentID": 19021349,
+        "email": "19021349@vnu.edu.vn",
+        "password": "quanvo",
+        "fullName": "Võ Minh Quân",
+        "class": "K64-CA-CLC2",
+        "dateOfBirth": Date("2001-08-30T00:00:00Z"),
+        "phoneNumber": 5103923159
+    },
+    {
+        "studentID": 19021341,
+        "email": "19021341@vnu.edu.vn",
+        "password": "ngocnguyen",
+        "fullName": "Nguyễn Duy Ngọc",
+        "class": "K64-CA-CLC2",
+        "dateOfBirth": Date("2001-07-03T00:00:00Z"),
+        "phoneNumber": 602200424
+    },
+    {
+        "studentID": 19021221,
+        "email": "19021221@vnu.edu.vn",
+        "password": "bachnx",
+        "fullName": "Ngô Xuân Bách",
+        "class": "K64-CA-CLC2",
+        "dateOfBirth": Date("2001-01-10T00:00:00Z"),
+        "phoneNumber": 753817337
+    },
+    {
+        "studentID": 19021394,
+        "email": "19021394@vnu.edu.vn",
+        "password": "vinhnd",
+        "fullName": "Nguyễn Đức Vinh",
+        "class": "K64-CA-CLC2",
+        "dateOfBirth": Date("2001-02-18T00:00:00Z"),
+        "phoneNumber": 763561789
+    },
+    {
+        "studentID": 19020076,
+        "email": "19020076@vnu.edu.vn",
+        "password": "crimson",
+        "fullName": "Đỗ Hồng Hà",
+        "class": "K64-CA-CLC2",
+        "dateOfBirth": Date("2001-07-13T00:00:00Z"),
+        "phoneNumber": 5003853511
+    },
+])
+
+127.0.0.53
+"mongodb+srv://uet-class:uetclass@customerinfo.zhan85p.mongodb.net/test"
